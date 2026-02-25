@@ -99,7 +99,7 @@
 
 <h2 align="center">${\textsf{\color{#FFFFA0}Do Not Interact}}$</h2>
 
-<p align="center">"If you fall under my <a href="https://rentry.co/dnisconduit">DNI</a> here."</p>
+<p align="center">"If you fall under my <a href="https://rentry.co/checkbookshelf">DNI</a> here."</p>
   
 <p align="center">"If you have a problem with me or my skins or the people I hang around, <b>hide me</b> please. Be a bigger person, thank you."</p>
   
