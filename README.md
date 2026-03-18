@@ -50,17 +50,17 @@
  <br/>
 <h2 align="center">${\textsf{\color{#FFFFA0}General}}$</h2>
 
-<p align="center">"I ${\textsf{\color{#FF784C}used}}$ to play Pony Town daily ${\textsf{\color{#99CCFF}(400+ days of playtime)}}$, I have been playing since 2017 ${\textsf{\color{#99CCFF}(daily since june of 2018 not counting breaks)}}$, I've gotten less frequent but I want to get back in again."</p>
+<p align="center">"I ${\textsf{\color{#FF784C}used}}$ to play Pony Town daily ${\textsf{\color{#99CCFF}(400+ days of playtime)}}$, I have been playing since 2017 ${\textsf{\color{#99CCFF}(daily since June of 2018 not counting breaks)}}$, I've gotten less frequent but I want to get back in again."</p>
   
 <p align="center">"I'm very friendly so feel free to interact! I'm very shy but also very hyper, I can get out of hand sometimes, don't be scared to correct me when I'm wrong!"</p>
   
 <p align="center">"I like to yap about my favorite things a lot, especially music, so ${\textsf{\color{#FF784C}please}}$ talk to me about music or fandom if we share any, I ${\textsf{\color{#FF784C}love}}$ that!"</p>
   
-<p align="center">"I am often multitasking so theres a 50/50 chance that I am offtab but im still quite responsive I think! ...Or at least I try to be."</p>
+<p align="center">"I am often multitasking so theres a 50/50 chance that I am offtab but I'm still quite responsive I think! ...Or at least I try to be."</p>
  
 <p align="center">"I use slurs and I make kms jokes, if this makes you uncomfortable please tell me!"</p>
 
-<p align="center""One big thing with me is I want to know when im wrong or out of line, so if I upset you or make you uncomfortable at all, ${\textsf{\color{#FF784C}please}}$ tell me I am ${\textsf{\color{#FF784C}begging}}$ you, it is ${\textsf{\color{#FF784C}very}}$ much appreciated, I am open to criticism. It is not a bad or scary thing, and is often necessary I feel. I'm making this clear because of past experiences ${\textsf{\color{#99CCFF}(see: 2024, iykyk)}}$, I want to be a good person, I dont want to make anyone upset or ruin a life, ya'know? Thank you for understanding... Just be communicative, okay?"</p>
+<p align="center""One big thing with me is I want to know when I'm wrong or out of line, so if I upset you or make you uncomfortable at all, ${\textsf{\color{#FF784C}please}}$ tell me I am ${\textsf{\color{#FF784C}begging}}$ you, it is ${\textsf{\color{#FF784C}very}}$ much appreciated, I am open to criticism. It is not a bad or scary thing, and is often necessary I feel. I'm making this clear because of past experiences ${\textsf{\color{#99CCFF}(see: 2024, iykyk)}}$, I want to be a good person, I don't want to make anyone upset or ruin a life, ya'know? Thank you for understanding... Just be communicative, okay? I won't be your friend otherwise."</p>
 <p align="center">
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/yttdarrowmove.gif">
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/dividerquestionmark.png">
@@ -69,7 +69,7 @@
 <h2 align="center">${\textsf{\color{#FFFFA0}Status Meanings}}$</h2>
 <p align="center"><img width="18" height="18" src="https://file.garden/ZNjY5-CbZ0o-GQoj/emojionline.png"> ${\textsf{\color{#4cb543}Online}}$ ${\textsf{\color{#CCC0FF}. . .}}$ ${\textsf{\color{#66CC40}Literally never enabled.}}$</p>
 
-<p align="center"><img width="20" height="20" src="https://file.garden/ZNjY5-CbZ0o-GQoj/emojilookingforchat.png"> ${\textsf{\color{#4896db}Looking for chat}}$ ${\textsf{\color{#CCC0FF}. . .}}$ ${\textsf{\color{#66CC40}Open to chat, I usually dont enable this unless im actively seeking out a specific fandom or kind of interaction}}$</p>
+<p align="center"><img width="20" height="20" src="https://file.garden/ZNjY5-CbZ0o-GQoj/emojilookingforchat.png"> ${\textsf{\color{#4896db}Looking for chat}}$ ${\textsf{\color{#CCC0FF}. . .}}$ ${\textsf{\color{#66CC40}Open to chat, I usually don't enable this unless I'm actively seeking out a specific fandom or kind of interaction.}}$</p>
   
 <p align="center"><img width="20" height="20" src="https://file.garden/ZNjY5-CbZ0o-GQoj/emojilookingforroleplay.png"> ${\textsf{\color{#4896db}Looking for roleplay}}$ ${\textsf{\color{#CCC0FF}. . .}}$ ${\textsf{\color{#66CC40}As it reads, looking for a lab most likely...}}$</p>
   
@@ -89,7 +89,7 @@
   
 <p align="center">"I am pretty blunt, if you upset me I will not be afraid to call you out."</p>
  
-<p align="center">"I will not be afraid to hide you if you annoy me, I hide freely. Although, I don't hide a lot of people, and have a tendecy to unhide. But, if its a repeated offense it will be permanant. I try to be kind and patiernt with everyone; with exceptions obviously."</p>
+<p align="center">"I will not be afraid to hide you if you annoy me, I hide freely. Although, I don't hide a lot of people, and have a tendecy to unhide. But, if it's a repeated offense it will be permanent. I try to be kind and patient with everyone; with exceptions obviously."</p>
 
 <p align="center">"I genuinely do not give a single fuck what you do with fiction or whatever. As long as you aren't hurting anybody or making anybody uncomfortable, we're cool. I don't really label myself with anything, I'm just making this clear because some people will see you as a terrible person if you don't "care" about the quote unquote issues they do."</p>
 <p align="center">
@@ -115,9 +115,11 @@
 
 <p align="center">"Please do not cover me if I do not know you. I will hide you if I feel/can tell it's malicious ${\textsf{\color{#99CCFF}(usually for 24 hours)}}$."</p>
 
-<p align="center">"I dont mind boops, but they are not a way to get my attention. If you want my attention, whisper me or speak, I usually dont respond to just "hi" though, so be creative!"</p>
+<p align="center">"I don't mind boops, but they are not a way to get my attention. If you want my attention, whisper me or speak, I usually don't respond to just "hi" though, so be creative!"</p>
 
-<p align="center">"I love crowns ${\textsf{\color{#99CCFF}(👑)}}$ or compliments! Feel free to! Though, do it in whisper in case I dont see it."</p>
+<p align="center">"I love crowns ${\textsf{\color{#99CCFF}(👑)}}$ or compliments! Feel free to! Though, do it in whisper in case I don't see it."</p>
+
+<p align="center">"I am happily taken by my lovely girlfriend, so I would prefer if you don't flirt with me or anything like that! This is a pony game, not a dating game."</p>
 <p align="center">
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/yttdarrowmove.gif">
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/dividerquestionmark.png">
