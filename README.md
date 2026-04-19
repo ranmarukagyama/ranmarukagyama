@@ -29,7 +29,7 @@
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/dividerquestionmark.png">
 
 <h2 align="center">${\textsf{\color{#FFFFA0}Links}}$</h2>
-<p align="center"><img width="20" height="20" src="https://file.garden/ZNjY5-CbZ0o-GQoj/ranmarubounce.gif"> <a href="https://rentry.co/ranmarukagyama">rentry</a> ⋆ <img width="20" height="20" src="https://file.garden/ZNjY5-CbZ0o-GQoj/favicon1.png"> <a href="https://ranmarukageyama.atabook.org/">atabook</a> ⋆ <img width="20" height="20" src="https://file.garden/ZNjY5-CbZ0o-GQoj/mid-logo.png"> <a href="https://ranmarukagyama.straw.page/entrance">strawpage</a> ⋆ <img width="20" height="20" src="https://file.garden/ZNjY5-CbZ0o-GQoj/favicon.png"> <a href="http://users.smartgb.com/g/g.php?a=s&i=g19-01405-a7">smartgb</a> ⋆ <img width="20" height="20" src="https://file.garden/ZNjY5-CbZ0o-GQoj/faviconpatreon.png"> <a href="https://www.patreon.com/ranmarukageyama/about">patreon</a> ⋆ <img width="20" height="20" src="https://file.garden/ZNjY5-CbZ0o-GQoj/favicon.702b239b6194.png"> <a href="https://www.last.fm/user/anthonyscoffin">last.fm</a> ⋆ <img width="20" height="20" src="https://file.garden/ZNjY5-CbZ0o-GQoj/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.png"> <a href="https://discordid.netlify.app/?id=471151816688533535">discord</a> ⋆ <img width="20" height="20" src="https://file.garden/ZNjY5-CbZ0o-GQoj/faviconprns.png"> <a href="https://en.pronouns.page/@ranmarukagyama">prns.page</a>
+<p align="center"><a href="https://rentry.co/ranmarukagyama">rentry</a> ⋆ <a href="https://ranmarukageyama.atabook.org/">atabook</a> ⋆ <a href="https://ranmarukagyama.straw.page/entrance">strawpage</a> ⋆ <a href="http://users.smartgb.com/g/g.php?a=s&i=g19-01405-a7">smartgb</a> ⋆ <a href="https://www.patreon.com/ranmarukageyama/about">patreon</a> ⋆ <a href="https://www.last.fm/user/anthonyscoffin">last.fm</a> ⋆ <a href="https://discordid.netlify.app/?id=471151816688533535">discord</a> ⋆ <a href="https://en.pronouns.page/@ranmarukagyama">prns.page</a>
 <p align="center">
   "...Way more links and information on my Rentry, Rentry is the most important! Sign my Atabook and Straw.Page or smartgb while you're at it! Hatemail or compliments, I don't care, you can send anything. Eventually I wanna make more things too I'm just... Lazy... They'll be added here and everywhere when I get shit done."</p>
 <p align="center">
@@ -37,7 +37,7 @@
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/dividerquestionmark.png">
 
 <p align="center">
-<h1 align="center">${\textsf{\color{#FFFFA0}Pony Town Information}}$ <img width="30" height="30" src="https://file.garden/ZNjY5-CbZ0o-GQoj/favicon-194x194.png"></h1>
+<h1 align="center">${\textsf{\color{#FFFFA0}Pony Town Information}}$</h1>
 <p align="center">
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/ptbannerblursmallereffects.png">
 
@@ -65,15 +65,15 @@
  <br/>
 
 <h2 align="center">${\textsf{\color{#FFFFA0}Status Meanings}}$</h2>
-<p align="center"><img width="18" height="18" src="https://file.garden/ZNjY5-CbZ0o-GQoj/emojionline.png"> ${\textsf{\color{#4cb543}Online}}$ ${\textsf{\color{#CCC0FF}. . .}}$ ${\textsf{\color{#66CC40}Literally never enabled.}}$</p>
+<p align="center">${\textsf{\color{#4cb543}Online}}$ ${\textsf{\color{#CCC0FF}. . .}}$ ${\textsf{\color{#66CC40}Literally never enabled.}}$</p>
 
-<p align="center"><img width="20" height="20" src="https://file.garden/ZNjY5-CbZ0o-GQoj/emojilookingforchat.png"> ${\textsf{\color{#4896db}Looking for chat}}$ ${\textsf{\color{#CCC0FF}. . .}}$ ${\textsf{\color{#66CC40}Open to chat, I usually don't enable this unless I'm actively seeking out a specific fandom or kind of interaction.}}$</p>
+<p align="center">${\textsf{\color{#4896db}Looking for chat}}$ ${\textsf{\color{#CCC0FF}. . .}}$ ${\textsf{\color{#66CC40}Open to chat, I usually don't enable this unless I'm actively seeking out a specific fandom or kind of interaction.}}$</p>
   
-<p align="center"><img width="20" height="20" src="https://file.garden/ZNjY5-CbZ0o-GQoj/emojilookingforroleplay.png"> ${\textsf{\color{#4896db}Looking for roleplay}}$ ${\textsf{\color{#CCC0FF}. . .}}$ ${\textsf{\color{#66CC40}As it reads, looking for a lab most likely...}}$</p>
+<p align="center">${\textsf{\color{#4896db}Looking for roleplay}}$ ${\textsf{\color{#CCC0FF}. . .}}$ ${\textsf{\color{#66CC40}As it reads, looking for a lab most likely...}}$</p>
   
-<p align="center"><img width="16" height="16" src="https://file.garden/ZNjY5-CbZ0o-GQoj/emojiaway.png"> ${\textsf{\color{#faa61a}Away}}$ ${\textsf{\color{#CCC0FF}. . .}}$ ${\textsf{\color{#66CC40}I have this on often, I like the little moon symbol!}}$</p>
+<p align="center">${\textsf{\color{#faa61a}Away}}$ ${\textsf{\color{#CCC0FF}. . .}}$ ${\textsf{\color{#66CC40}I have this on often, I like the little moon symbol!}}$</p>
   
-<p align="center"><img width="18" height="18" src="https://file.garden/ZNjY5-CbZ0o-GQoj/emojibusy.png"> ${\textsf{\color{#f04747}Busy}}$ ${\textsf{\color{#CCC0FF}. . .}}$ ${\textsf{\color{#66CC40}I don't put this on often, usually only when busy or upset and want to be left alone. Don't interact unless I do or if you're a friend.}}$</p>
+<p align="center">${\textsf{\color{#f04747}Busy}}$ ${\textsf{\color{#CCC0FF}. . .}}$ ${\textsf{\color{#66CC40}I don't put this on often, usually only when busy or upset and want to be left alone. Don't interact unless I do or if you're a friend.}}$</p>
 <p align="center">
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/yttdarrowmove.gif">
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/dividerquestionmark.png">
