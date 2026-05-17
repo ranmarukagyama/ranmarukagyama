@@ -29,7 +29,7 @@
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/dividerquestionmark.png">
 
 <h2 align="center">${\textsf{\color{#FFFFA0}Links}}$</h2>
-<p align="center"><a href="https://rentry.co/ranmarukagyama">rentry</a> ⋆ <a href="https://ranmarukageyama.atabook.org/">atabook</a> ⋆ <a href="https://ranmarukagyama.straw.page/entrance">strawpage</a> ⋆ <a href="http://users.smartgb.com/g/g.php?a=s&i=g19-01405-a7">smartgb</a> ⋆ <a href="https://www.patreon.com/ranmarukageyama/about">patreon</a> ⋆ <a href="https://www.last.fm/user/anthonyscoffin">last.fm</a> ⋆ <a href="https://discordid.netlify.app/?id=471151816688533535">discord</a> ⋆ <a href="https://en.pronouns.page/@ranmarukagyama">prns.page</a>
+<p align="center"><a href="https://rentry.co/ranmarukagyama">rentry</a> ⋆ <a href="https://ranmarukageyama.atabook.org/">atabook</a> ⋆ <a href="https://ranmarukagyama.straw.page/entrance">strawpage</a> ⋆ <a href="http://users.smartgb.com/g/g.php?a=s&i=g19-01405-a7">smartgb</a> ⋆ <a href="https://www.patreon.com/ranmarukageyama/about">patreon</a> ⋆ <a href="https://www.last.fm/user/anthonyscoffin">last.fm</a> ⋆ <a href="https://discordid.netlify.app/?id=471151816688533535">discord</a> ⋆ <a href="https://pronouns.cc/@ranmarukagyama">prns.cc</a> ⋆ <a href="https://en.pronouns.page/@ranmarukagyama">prns.page</a>
 <p align="center">
   "...Way more links and information on my Rentry, Rentry is the most important! Sign my Atabook and Straw.Page or smartgb while you're at it! Hatemail or compliments, I don't care, you can send anything. Eventually I wanna make more things too I'm just... Lazy... They'll be added here and everywhere when I get shit done."</p>
 <p align="center">
