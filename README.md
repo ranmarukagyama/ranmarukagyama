@@ -2,10 +2,10 @@
 <p align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=ranmarukagyama&color=8ca1e0&style=plastic&label=People+expired.+(Views)">
 <p align="left">
-<a href="https://www.youtube.com/watch?v=SUCrcBBRuTU">♫</a> " <I>...Anything you need from me, ${\textsf{\color{#FF784C}the eight arms around you}}$?
+<a href="https://www.youtube.com/watch?v=SUCrcBBRuTU">♫</a> ❝ <I>...Anything you need from me, ${\textsf{\color{#FF784C}the eight arms around you}}$?
 <p align="center">
 <a href="https://open.spotify.com/album/03qPdf3vtxl2IUHtYMC2Zr?si=rAPePbIZTJiwEi9mrg6FnQ"><img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/ranmaruhtkkgraphicmaskbottom.gif">
-<p align="right">Another ${\textsf{\color{#3E9ADE}heart}}$ to pound for you?</I> " <a href="https://open.spotify.com/track/1jY9LcjSKmvQ6iGxchj31e?si=964bcd00fabb4e38">♫</a>
+<p align="right">Another ${\textsf{\color{#3E9ADE}heart}}$ to pound for you?</I> ❞ <a href="https://open.spotify.com/track/1jY9LcjSKmvQ6iGxchj31e?si=964bcd00fabb4e38">♫</a>
 <p align="center">
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/yttdarrowmove.gif">
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/dividerquestionmark.png">
