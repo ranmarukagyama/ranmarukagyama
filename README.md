@@ -117,7 +117,7 @@
 
 <p align="center">"I love crowns ${\textsf{\color{#99CCFF}(👑)}}$ or compliments! Feel free to! Though, do it in whisper in case I don't see it."</p>
 
-<p align="center">"I am happily taken by my lovely girlfriend, so I would prefer if you don't flirt with me or anything like that! This is a pony game, not a dating game."</p>
+<p align="center">"I'm not looking for a relationship ever again, so I would prefer if you don't flirt with me or anything like that! This is a pony game, not a dating game."</p>
 <p align="center">
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/yttdarrowmove.gif">
 <img align="center" src="https://file.garden/ZNjY5-CbZ0o-GQoj/dividerquestionmark.png">
