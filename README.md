@@ -87,7 +87,7 @@
   
 <p align="center">"I am pretty blunt, if you upset me I will not be afraid to call you out."</p>
  
-<p align="center">"I will not be afraid to hide you if you annoy me, I hide freely. Although, I don't hide a lot of people, and have a tendecy to unhide. But, if it's a repeated offense it will be permanent. I try to be kind and patient with everyone; with exceptions obviously."</p>
+<p align="center">"I will not be afraid to hide you if you annoy me, I hide freely. Although, I don't hide a lot of people, and have a tendency to unhide. But, if it's a repeated offense it will be permanent. I try to be kind and patient with everyone; with exceptions obviously."</p>
 
 <p align="center">"I genuinely do not give a single fuck what you do with fiction or whatever. As long as you aren't hurting anybody or making anybody uncomfortable, we're cool. I don't really label myself with anything, I'm just making this clear because some people will see you as a terrible person if you don't "care" about the quote unquote issues they do."</p>
 <p align="center">
